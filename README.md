@@ -1,7 +1,5 @@
 ## Mi nombre es Ariana Colque
 Me gusta 
-- Escuchar musica
-- Ver series 
 - Estar con las nenas de ritmica
   
 ![image](https://github.com/arianacolque27/arianacolque27/assets/172040191/8b522ae5-a1dc-4320-a6fd-5fdcbdf9cbc0)
@@ -18,6 +16,8 @@ El proximo año voy a estudiar medicina
 
   - Mi especialidad soñanda es neurocirugia:
 https://www.gruporecoletas.com/noticias/neurocirugia-que-es-y-cuando-acudir-neurocirujano/
--Otra opcion es forense:h
+
+-Otra opcion es forense:
+
 ttp://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1409-00152018000100102
 
