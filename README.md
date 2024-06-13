@@ -15,7 +15,7 @@ Me gusta
 El proximo año voy a estudiar medicina
 
   - Mi especialidad soñanda es neurocirugia:
-https://www.gruporecoletas.com/noticias/neurocirugia-que-es-y-cuando-acudir-neurocirujano/
+[neurocirugía](https://www.gruporecoletas.com/noticias/neurocirugia-que-es-y-cuando-acudir-neurocirujano/)
 - Otra opcion es:
-ttp://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1409-00152018000100102
+[planb](ttp://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1409-00152018000100102)
 
